@@ -1,0 +1,40 @@
+h1  {color : grey;
+	text-decoration:overline;
+	text-transform: uppercase;
+}
+
+p{color : blue;
+	text-indent: 75px;
+	line-height: 35px;
+	letter-spacing: 5px;
+	word-spacing: 1px;
+	font-family: "Courier 10 Pitch", Monospace, Monospace;
+	font-size: 17px;
+	
+	font-variant: small-caps
+
+} 
+#first_id {color : #af4f43;
+		   background-color: silver;}
+
+.first_class {color : teal;text-align: right;
+}
+
+pre {color : fuchsia;}
+
+div {background: url('dnatur.jpg') no-repeat;
+	background-position: center ;
+}
+
+body {
+	background: url('natur.jpg') repeat scroll;
+}
+
+ol {
+	list-style-type: lower-greek;
+}
+
+ul {
+	list-style-image: url('package-reinstall.svg');
+}
+
